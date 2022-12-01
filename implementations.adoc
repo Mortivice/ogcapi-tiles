@@ -87,6 +87,10 @@
 | OGC API - Features/Coverages/Maps/Tiles
 | https://github.com/osgeo/gdal[osgeo/gdal]
 
+| https://storage.googleapis.com/ogcsprint/index.html[Hexagon LuciadRIA]
+| OGC API - Tiles
+| https://github.com/Mortivice[Tom Crauwels]
+
 | TBA
 | TBA
 | TBA
